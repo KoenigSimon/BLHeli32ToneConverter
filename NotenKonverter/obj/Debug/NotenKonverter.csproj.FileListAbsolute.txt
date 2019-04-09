@@ -1,0 +1,10 @@
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\bin\Debug\NotenKonverter.exe.config
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\bin\Debug\NotenKonverter.exe
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\bin\Debug\NotenKonverter.pdb
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.Form1.resources
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.Properties.Resources.resources
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.exe
+C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.pdb
