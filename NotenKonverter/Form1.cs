@@ -78,9 +78,11 @@ namespace NotenKonverter
                                             final += "P1";
                                             break;
                                         }
+                                        j += 2;
+                                        final += "P1/2 P1/4";
                                         break;
                                     }
-
+                                    j++;
                                     final += "P1/2";
                                     break;
                                 }

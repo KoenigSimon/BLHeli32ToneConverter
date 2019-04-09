@@ -8,3 +8,13 @@ C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonvert
 C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.csproj.CoreCompileInputs.cache
 C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.exe
 C:\Users\Simon\source\repos\NotenKonverter\NotenKonverter\obj\Debug\NotenKonverter.pdb
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\bin\Debug\NotenKonverter.exe.config
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\bin\Debug\NotenKonverter.exe
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\bin\Debug\NotenKonverter.pdb
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.csprojAssemblyReference.cache
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.Form1.resources
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.Properties.Resources.resources
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.csproj.GenerateResource.cache
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.csproj.CoreCompileInputs.cache
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.exe
+D:\Programmierung\Git\BLHeli32ToneConverter\NotenKonverter\obj\Debug\NotenKonverter.pdb
