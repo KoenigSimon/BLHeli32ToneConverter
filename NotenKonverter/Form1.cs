@@ -29,6 +29,7 @@ namespace NotenKonverter
         {
             richTextBox2.Clear();
             inputLines = richTextBox1.Lines;
+
             for (int i = 0; i < inputLines.Length; i++)
             {
                 //leere ignorieren
@@ -53,13 +54,12 @@ namespace NotenKonverter
                 {
 
                 }
-                
 
                 //zuschneiden pipes entfernen                
                 inputLines[i] = inputLines[i].Remove(0, 2);
                 inputLines[i] = inputLines[i].Remove(inputLines[i].Length - 1, 1);
 
-                //konvertieren                
+                //konvertieren
                 string final = "";
                 for (int j = 0; j < inputLines[i].Length; j++)
                 {
@@ -128,7 +128,7 @@ namespace NotenKonverter
                     }
                 }
                 richTextBox2.AppendText(final);
-                richTextBox2.AppendText("\n");
+                richTextBox2.AppendText("\n");              
             }
         }
 
